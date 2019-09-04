@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+.pytest_cache/
+.idea/
+build
+dist
+liwc_text_analysis.egg-info
